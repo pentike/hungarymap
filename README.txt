@@ -22,4 +22,4 @@ http://davidlynch.org/projects/maphilight/
 http://jquery.org/
 
 --
-Péntek Gábor - pentek.gabor@gmail.com
+Péntek Gábor - pentike@gmail.com
