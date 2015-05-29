@@ -7,7 +7,7 @@ A /map könyvtár tartalmazza a térképet.
 A magyarorszag.html és magyarorszag2.html oldalak két különböző méretű térkép.
 
 A /db könyvtárban adatbázis szkriptek vannak, melyekkel létrehozható magyarország megyéinek és településeinek összerendelése.
-A skriptek mysql adatbázhoz készültek.
+A szkriptek mysql adatbázhoz készültek.
 
 
 
