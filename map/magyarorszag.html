@@ -7,7 +7,7 @@
     <script type="text/javascript">$(function() {
         $('#mapHu').maphilight();
         $('area').mouseover(function(e) {
-            $('#megye').val($(this).attr('title'));
+            $('#varmegye').val($(this).attr('title'));
         }).mouseout(function(e) {
             $('#squidhead').mouseout();
         }).click(function(e) { e.preventDefault(); });
@@ -19,7 +19,7 @@
 	</style>
 </head>
 <body>
-<input type="input" id="megye" />
+<input type="input" id="varmegye" />
 <MAP name="map1">
 <AREA 
  SHAPE="poly"
