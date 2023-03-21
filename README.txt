@@ -1,7 +1,7 @@
-Magyarország megyetérképe - Country map of Hungary
+Magyarország vármegyetérképe - Country map of Hungary
 --
 
-Megyeválasztó térkép magyarország megyéihez jQuery alapokon.
+Vármegyeválasztó térkép magyarország megyéihez jQuery alapokon.
 
 A /map könyvtár tartalmazza a térképet.
 A magyarorszag.html és magyarorszag2.html oldalak két különböző méretű térkép.
